@@ -1,0 +1,1 @@
+import{_ as i,c as l,o as e,aR as t}from"./chunks/framework.CBKdeDO1.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mdfiles/title1.md","filePath":"mdfiles/title1.md"}'),a={name:"mdfiles/title1.md"},o=t("",4),s=[o];function r(n,c,_,d,u,h){return e(),l("div",null,s)}const p=i(a,[["render",r]]);export{f as __pageData,p as default};
