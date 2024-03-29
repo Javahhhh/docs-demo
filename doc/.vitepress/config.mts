@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import ElementPlus from 'element-plus'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:'/step by Steps/',
+  base:'/stepbySteps/',
   title: "跬步-step by Steps",
   description: "A VitePress Site",
   themeConfig: {
